@@ -1,0 +1,138 @@
+@import url('res/futurastd-medium.css');
+
+html {
+	color: #fff;
+}
+
+#wrap {
+	padding-bottom: 10px;
+	max-width: 850px;
+	min-height: 255px;
+	margin-top: 85px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #252525ea;
+
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom: 2px solid rgb(255, 251, 0);
+}
+
+table {
+
+	text-align: left;
+}
+
+th, td {
+	padding-left: 25px;
+}
+
+th {
+	padding-top: 10px;
+	height: 40px;
+}
+
+#playerid {
+	position: absolute;
+	color: rgb(255, 251, 0);
+	font-size: 11px;
+	padding-top: 7px;
+	padding-left: 20px;
+}
+
+#playeridreal {
+	position: absolute;
+	color: #fff;
+	font-size: 12px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+#playerbox {
+	position: absolute;
+	color: rgb(255, 251, 0);
+	font-size: 11px;
+	padding-top: 7px;
+	padding-left: 45px;
+}
+
+#playerreal {
+	position: absolute;
+	color: #fff;
+	font-size: 12px;
+	padding-top: 20px;
+	padding-left: 45px;
+}
+
+#playerping {
+	position: absolute;
+	color: rgb(255, 251, 0);
+	font-size: 11px;
+	padding-top: 7px;
+	padding-left: 210px;
+}
+
+#playerms {
+	position: absolute;
+	color: #fff;
+	font-size: 12px;
+	padding-top: 20px;
+	padding-left: 210px;
+}
+
+
+
+
+tr {
+	background: #1f1f1fd2;
+
+	width: 261px;
+	display: block;
+	height: 40px;
+	position: relative;
+
+	border-radius: 10px;
+
+	padding: 4px;
+	margin-top: 10px;
+	margin-left: 10px;
+
+	text-align: center;
+	float: left;
+	font-size: 15px;
+
+	font-family: 'sans-serif';
+
+	border-radius: 10px;
+	border-left: 1px solid rgb(255, 251, 0);
+	border-right: 1px solid rgb(255, 251, 0);
+}
+
+.heading {
+
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+
+	text-align: center;
+	font-family: 'sans-serif';
+    padding-top: 17px;
+	padding-bottom: 15px;
+	background: #1f1f1fd2;
+	font-size: 20px;
+    color: rgb(255, 251, 0);
+}
+
+#discord {
+	position: absolute;
+	font-family: sans-serif;
+	margin: -33px 45px;
+
+	text-align: left;
+}
+
+strong {
+	font-weight: 800;
+}
